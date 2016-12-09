@@ -1,0 +1,17 @@
+<BRS027_Radar_Type_277_Outfit_AUK_skinned.mfm>
+	<fx>	shaders/std_effects/PBS_ship_skinned.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRS027_Radar_Type_277_Outfit_AUK_a.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRS027_Radar_Type_277_Outfit_AUK_n.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRS027_Radar_Type_277_Outfit_AUK_mg.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/default_ao.tga	</Texture>
+	</property>
+</BRS027_Radar_Type_277_Outfit_AUK_skinned.mfm>

@@ -1,0 +1,9 @@
+<BGT005_21in_Quad_Torpedo_Tube_lod1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGT005_21in_Quad_Torpedo_Tube_lod2	</parent>
+	<nodefullVisual>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGT005_21in_Quad_Torpedo_Tube_lod1	</nodefullVisual>
+	<extent>	15.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BGT005_21in_Quad_Torpedo_Tube_lod1.model>

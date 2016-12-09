@@ -1,0 +1,20 @@
+<BGT005_21in_Quad_Torpedo_Tube_skinned.mfm>
+	<fx>	shaders/std_effects/PBS_skinned_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	2.00000	</Float>
+	</property>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGT005_21in_Quad_Torpedo_Tube_a.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGT005_21in_Quad_Torpedo_Tube_n.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGT005_21in_Quad_Torpedo_Tube_mg.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/default_ao.tga	</Texture>
+	</property>
+</BGT005_21in_Quad_Torpedo_Tube_skinned.mfm>

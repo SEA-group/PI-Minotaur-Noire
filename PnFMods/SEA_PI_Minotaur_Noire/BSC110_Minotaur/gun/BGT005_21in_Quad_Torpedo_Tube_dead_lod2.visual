@@ -1,0 +1,38 @@
+<BGT005_21in_Quad_Torpedo_Tube_dead_lod2.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	BGT005_21in_Quad_Torpedo_Tube_dead	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	BGT005_21in_Quad_Torpedo_Tube_dead	</node>
+		<geometry>
+			<vertices>	BGT005_21in_Quad_Torpedo_Tube_dead_lod2Shape.vertices	</vertices>
+			<primitive>	BGT005_21in_Quad_Torpedo_Tube_dead_lod2Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_GunDead	</identifier>
+					<mfm>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGT005_21in_Quad_Torpedo_Tube_dead.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<boundingBox>
+		<min>	-0.125212 -0.000000 -0.229111	</min>
+		<max>	0.131414 0.111178 0.269835	</max>
+	</boundingBox>
+</BGT005_21in_Quad_Torpedo_Tube_dead_lod2.visual>
