@@ -1,9 +1,1 @@
-<BSC017_Minotaur_1947_Bow_lod1.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/ship/BSC017_Minotaur_1947_Bow_lod2	</parent>
-	<extent>	17.0000	</extent>
-	<materialNames />
-	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/ship/BSC017_Minotaur_1947_Bow_lod1	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</BSC017_Minotaur_1947_Bow_lod1.model>
+<BSC017_Minotaur_1947_Bow_lod1.model><exporter>1.6</exporter><parent>PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/ship/BSC017_Minotaur_1947_Bow_lod2</parent><extent>17.0000</extent><materialNames /><castsShadow>true</castsShadow><nodefullVisual>PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/ship/BSC017_Minotaur_1947_Bow_lod1</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></BSC017_Minotaur_1947_Bow_lod1.model>

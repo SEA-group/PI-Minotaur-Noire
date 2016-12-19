@@ -1,18 +1,1 @@
-<BRS026_Radar_Type_293p_Outfit_AQK_lod1.model>
-	<castsShadow>	false	</castsShadow>
-	<action>
-		<name>	idle	</name>
-		<animation>	Rotation5rpm	</animation>
-		<filler>	true	</filler>
-	</action>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRS026_Radar_Type_293p_Outfit_AQK_lod2	</parent>
-	<nodefullVisual>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRS026_Radar_Type_293p_Outfit_AQK_lod1	</nodefullVisual>
-	<extent>	8.0000	</extent>
-	<animation>
-		<name>	Rotation5rpm	</name>
-		<frameRate>	30.0000	</frameRate>
-		<nodes>	content/animation/common/Rotation5rpm	</nodes>
-	</animation>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</BRS026_Radar_Type_293p_Outfit_AQK_lod1.model>
+<BRS026_Radar_Type_293p_Outfit_AQK_lod1.model><castsShadow>false</castsShadow><action><name>idle</name><animation>Rotation5rpm</animation><filler>true</filler></action><exporter>1.6</exporter><parent>PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRS026_Radar_Type_293p_Outfit_AQK_lod2</parent><nodefullVisual>PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRS026_Radar_Type_293p_Outfit_AQK_lod1</nodefullVisual><extent>8.0000</extent><animation><name>Rotation5rpm</name><frameRate>30.0000</frameRate><nodes>content/animation/common/Rotation5rpm</nodes></animation><metaData>Wargaming | Lesta Studio</metaData></BRS026_Radar_Type_293p_Outfit_AQK_lod1.model>

@@ -1,9 +1,1 @@
-<BRS030_Radar_Type_268_lod1.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRS030_Radar_Type_268_lod2	</parent>
-	<nodefullVisual>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRS030_Radar_Type_268_lod1	</nodefullVisual>
-	<extent>	3.0000	</extent>
-	<materialNames />
-	<castsShadow>	false	</castsShadow>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</BRS030_Radar_Type_268_lod1.model>
+<BRS030_Radar_Type_268_lod1.model><exporter>1.6</exporter><parent>PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRS030_Radar_Type_268_lod2</parent><nodefullVisual>PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRS030_Radar_Type_268_lod1</nodefullVisual><extent>3.0000</extent><materialNames /><castsShadow>false</castsShadow><metaData>Wargaming | Lesta Studio</metaData></BRS030_Radar_Type_268_lod1.model>

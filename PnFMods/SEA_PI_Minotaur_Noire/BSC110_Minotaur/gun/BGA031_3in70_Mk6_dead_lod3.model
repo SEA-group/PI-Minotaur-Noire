@@ -1,7 +1,1 @@
-<BGA031_3in70_Mk6_dead_lod3.model>
-	<castsShadow>	false	</castsShadow>
-	<exporter>	1.6	</exporter>
-	<extent>	50.0000	</extent>
-	<nodefullVisual>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGA031_3in70_Mk6_dead_lod3	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</BGA031_3in70_Mk6_dead_lod3.model>
+<BGA031_3in70_Mk6_dead_lod3.model><castsShadow>false</castsShadow><exporter>1.6</exporter><extent>50.0000</extent><nodefullVisual>PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGA031_3in70_Mk6_dead_lod3</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></BGA031_3in70_Mk6_dead_lod3.model>
