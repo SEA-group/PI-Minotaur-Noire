@@ -1,1 +1,9 @@
-<BGT005_21in_Quad_Torpedo_Tube_dead_lod2.model><exporter>1.6</exporter><parent>PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGT005_21in_Quad_Torpedo_Tube_dead_lod3</parent><nodefullVisual>PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGT005_21in_Quad_Torpedo_Tube_dead_lod2</nodefullVisual><extent>30.0000</extent><materialNames /><castsShadow>true</castsShadow><metaData>Wargaming | Lesta Studio</metaData></BGT005_21in_Quad_Torpedo_Tube_dead_lod2.model>
+<BGT005_21in_Quad_Torpedo_Tube_dead_lod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGT005_21in_Quad_Torpedo_Tube_dead_lod3	</parent>
+	<nodefullVisual>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGT005_21in_Quad_Torpedo_Tube_dead_lod2	</nodefullVisual>
+	<extent>	30.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BGT005_21in_Quad_Torpedo_Tube_dead_lod2.model>

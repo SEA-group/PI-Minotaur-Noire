@@ -1,1 +1,38 @@
-<BD005_Director_Mk7_With_finder_15ft_lod3.visual><boundingBox><min>-0.113693 -0.000000 -0.094232</min><max>0.113627 0.207501 0.115049</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Radar</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>MP_BM006_Radar_type_284_up_on_MK23_dir</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.207325 -0.072716 1.000000</row3></transform></node><node><identifier>MP_BM007_RF22ft_on_MK23_dir</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.047249 -0.030980 1.000000</row3></transform></node><node><identifier>MP_BM008_Radar_type_274_on_MK23_dir</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.185644 -0.021251 1.000000</row3></transform></node><node><identifier>MP_BM457_RF15ft_on_MK23_dir</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>MP_BM005_Radar_type_284_on_MK23_dir</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Radar</node><geometry><vertices>Radar_lod3Shape.vertices</vertices><primitive>Radar_lod3Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Misc</identifier><mfm>PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/director/d7acfc4deec5a0da5d34ff2070f6d4e5.mfm</mfm></material></primitiveGroup></geometry></renderSet></BD005_Director_Mk7_With_finder_15ft_lod3.visual>
+<BD005_Director_Mk7_With_finder_15ft_lod3.visual>
+	<boundingBox>
+		<min>	-0.113693 -0.000000 -0.094232	</min>
+		<max>	0.113627 0.207501 0.115049	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Radar	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Radar	</node>
+		<geometry>
+			<vertices>	Radar_lod3Shape.vertices	</vertices>
+			<primitive>	Radar_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Misc	</identifier>
+					<mfm>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/director/BD005_Director_Mk7_With_finder_15ft.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</BD005_Director_Mk7_With_finder_15ft_lod3.visual>

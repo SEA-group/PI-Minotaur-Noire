@@ -1,1 +1,105 @@
-<BSC017_Minotaur_1947_Stern_ports.visual><boundingBox><min>-0.066700 -0.066700 -0.066700</min><max>0.066700 0.066700 0.066700</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Stern_ports</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>HP_BGA_17</identifier><transform><row0>-1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>-0.361650 0.413242 -5.028636 1.000000</row3></transform></node><node><identifier>HP_BGA_18</identifier><transform><row0>-1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>0.361650 0.413242 -5.028636 1.000000</row3></transform></node><node><identifier>MP_CM002_Propeller4_L</identifier><transform><row0>0.999373 -0.000531 -0.035398 0.000000</row0><row1>-0.000531 0.999550 -0.030000 0.000000</row1><row2>0.035398 0.030000 0.998923 0.000000</row2><row3>-0.248320 -0.347736 -5.179867 1.000000</row3></transform></node><node><identifier>MP_CM011_Fire_Fighting_Gear</identifier><transform><row0>-1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>-0.013760 0.416095 -5.334517 1.000000</row3></transform></node><node><identifier>MP_BM963_Anchor_Capstan_Stern</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 0.999659 0.026104 0.000000</row1><row2>0.000000 -0.026104 0.999659 0.000000</row2><row3>0.000000 0.423498 -5.635951 1.000000</row3></transform></node><node><identifier>MP_BTC0528</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.105848 0.543684 -6.181815</row3></transform></node><node><identifier>MP_CTC1370</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.462070 -4.232586</row3></transform></node><node><identifier>MP_CM033_Propeller4_R</identifier><transform><row0>0.999373 0.000532 0.035415 0.000000</row0><row1>0.000532 0.999549 -0.030012 0.000000</row1><row2>-0.035415 0.030012 0.998922 0.000000</row2><row3>0.506717 -0.324502 -4.141201 1.000000</row3></transform></node><node><identifier>MP_CM002_Propeller4_L_INDEX_1</identifier><transform><row0>0.999373 -0.000532 -0.035415 0.000000</row0><row1>-0.000532 0.999549 -0.030012 0.000000</row1><row2>0.035415 0.030012 0.998922 0.000000</row2><row3>-0.506717 -0.324502 -4.141201 1.000000</row3></transform></node><node><identifier>MP_CM033_Propeller4_R_INDEX_1</identifier><transform><row0>0.999373 0.000531 0.035398 0.000000</row0><row1>0.000531 0.999550 -0.030000 0.000000</row1><row2>-0.035398 0.030000 0.998923 0.000000</row2><row3>0.248320 -0.347736 -5.179867 1.000000</row3></transform></node><node><identifier>HP_Fire_Burn_4</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 -5.187337 1.000000</row3></transform></node><node><identifier>HP_Ship_death_3</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 -3.929271 1.000000</row3></transform></node></node></node></BSC017_Minotaur_1947_Stern_ports.visual>
+<BSC017_Minotaur_1947_Stern_ports.visual>
+	<boundingBox>
+		<min>	-0.066700 -0.066700 -0.066700	</min>
+		<max>	0.066700 0.066700 0.066700	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Stern_ports	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_BGA_17	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	-0.361650 0.413242 -5.028636 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_BGA_18	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	0.361650 0.413242 -5.028636 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM002_Propeller4_L	</identifier>
+				<transform>
+					<row0>	0.999373 -0.000531 -0.035398 0.000000	</row0>
+					<row1>	-0.000531 0.999550 -0.030000 0.000000	</row1>
+					<row2>	0.035398 0.030000 0.998923 0.000000	</row2>
+					<row3>	-0.248320 -0.347736 -5.179867 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BM963_Anchor_Capstan_Stern	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.999659 0.026104 0.000000	</row1>
+					<row2>	0.000000 -0.026104 0.999659 0.000000	</row2>
+					<row3>	0.000000 0.423498 -5.635951 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM033_Propeller4_R	</identifier>
+				<transform>
+					<row0>	0.999373 0.000532 0.035415 0.000000	</row0>
+					<row1>	0.000532 0.999549 -0.030012 0.000000	</row1>
+					<row2>	-0.035415 0.030012 0.998922 0.000000	</row2>
+					<row3>	0.506717 -0.324502 -4.141201 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM002_Propeller4_L_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.999373 -0.000532 -0.035415 0.000000	</row0>
+					<row1>	-0.000532 0.999549 -0.030012 0.000000	</row1>
+					<row2>	0.035415 0.030012 0.998922 0.000000	</row2>
+					<row3>	-0.506717 -0.324502 -4.141201 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM033_Propeller4_R_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.999373 0.000531 0.035398 0.000000	</row0>
+					<row1>	0.000531 0.999550 -0.030000 0.000000	</row1>
+					<row2>	-0.035398 0.030000 0.998923 0.000000	</row2>
+					<row3>	0.248320 -0.347736 -5.179867 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Fire_Burn_4	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 -5.187337 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Ship_death_3	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 -3.929271 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+</BSC017_Minotaur_1947_Stern_ports.visual>

@@ -1,1 +1,8 @@
-<BD005_Director_Mk7_With_finder_15ft_lod1.model><castsShadow>false</castsShadow><exporter>1.6</exporter><parent>PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/director/BD005_Director_Mk7_With_finder_15ft_lod2</parent><extent>8.0000</extent><nodefullVisual>PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/director/BD005_Director_Mk7_With_finder_15ft_lod1</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></BD005_Director_Mk7_With_finder_15ft_lod1.model>
+<BD005_Director_Mk7_With_finder_15ft_lod1.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/director/BD005_Director_Mk7_With_finder_15ft_lod2	</parent>
+	<extent>	8.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/director/BD005_Director_Mk7_With_finder_15ft_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BD005_Director_Mk7_With_finder_15ft_lod1.model>

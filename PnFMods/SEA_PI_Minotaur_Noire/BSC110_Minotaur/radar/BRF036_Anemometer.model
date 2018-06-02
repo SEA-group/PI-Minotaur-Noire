@@ -1,1 +1,19 @@
-<BRF036_Anemometer.model><castsShadow>false</castsShadow><action><name>idle</name><animation>NC_BRF036_Anemometer</animation><filler>true</filler></action><exporter>1.6</exporter><parent>PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRF036_Anemometer_lod1</parent><extent>2.0000</extent><nodefullVisual>PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRF036_Anemometer</nodefullVisual><materialNames /><animation><name>NC_BRF036_Anemometer</name><frameRate>30.0000</frameRate><nodes>content/animation/common/NC_BRF036_Anemometer</nodes></animation><metaData>Wargaming | Lesta Studio</metaData></BRF036_Anemometer.model>
+<BRF036_Anemometer.model>
+	<castsShadow>	false	</castsShadow>
+	<action>
+		<name>	idle	</name>
+		<animation>	NC_BRF036_Anemometer	</animation>
+		<filler>	true	</filler>
+	</action>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRF036_Anemometer_lod1	</parent>
+	<extent>	2.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRF036_Anemometer	</nodefullVisual>
+	<materialNames />
+	<animation>
+		<name>	NC_BRF036_Anemometer	</name>
+		<frameRate>	30.0000	</frameRate>
+		<nodes>	content/animation/common/NC_BRF036_Anemometer	</nodes>
+	</animation>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BRF036_Anemometer.model>

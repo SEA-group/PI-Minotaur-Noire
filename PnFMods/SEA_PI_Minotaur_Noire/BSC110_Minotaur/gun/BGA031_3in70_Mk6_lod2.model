@@ -1,1 +1,9 @@
-<BGA031_3in70_Mk6_lod2.model><exporter>1.6</exporter><parent>PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGA031_3in70_Mk6_lod3</parent><extent>25.0000</extent><materialNames /><castsShadow>false</castsShadow><nodefullVisual>PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGA031_3in70_Mk6_lod2</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></BGA031_3in70_Mk6_lod2.model>
+<BGA031_3in70_Mk6_lod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGA031_3in70_Mk6_lod3	</parent>
+	<extent>	25.0000	</extent>
+	<materialNames />
+	<castsShadow>	false	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGA031_3in70_Mk6_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BGA031_3in70_Mk6_lod2.model>

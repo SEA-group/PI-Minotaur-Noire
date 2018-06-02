@@ -1,1 +1,150 @@
-<BRF036_Anemometer_lod1.visual><boundingBox><min>-0.016626 -0.024538 -0.012140</min><max>0.016626 0.063279 0.010431</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Root</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>Rotate_Y</identifier><transform><row0>0.000000 1.000000 0.000000 0.000000</row0><row1>0.000000 0.000000 -1.000000 0.000000</row1><row2>-1.000000 0.000000 0.000000 0.000000</row2><row3>0.000000 0.033430 0.000000 1.000000</row3></transform><node><identifier>Rotate_Y2</identifier><transform><row0>-0.008604 -0.999963 0.000000 0.000000</row0><row1>0.999963 -0.008604 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.018820 0.000000 0.000000 1.000000</row3></transform><node><identifier>Rotate_Z</identifier><transform><row0>0.000000 0.000000 -1.000000 0.000000</row0><row1>-0.008604 0.999963 0.000000 0.000000</row1><row2>0.999963 0.008604 0.000000 0.000000</row2><row3>0.005848 0.000050 0.000000 1.000000</row3></transform><node><identifier>Rotate_Z_BlendBone</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>0.000000 -0.052250 -0.005848 1.000000</row3></transform></node></node><node><identifier>Rotate_Y2_BlendBone</identifier><transform><row0>0.000000 0.000000 -1.000000 0.000000</row0><row1>-0.008604 0.999963 0.000000 0.000000</row1><row2>-0.999963 -0.008604 0.000000 0.000000</row2><row3>0.000450 -0.052248 0.000000 1.000000</row3></transform></node></node><node><identifier>Rotate_X1</identifier><transform><row0>0.953994 -0.299827 0.000000 0.000000</row0><row1>0.299827 0.953994 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.014215 1.000000</row3></transform><node><identifier>Rotate_X1_BlendBone</identifier><transform><row0>0.000000 0.000000 -1.000000 0.000000</row0><row1>0.953994 0.299827 0.000000 0.000000</row1><row2>-0.299827 0.953994 0.000000 0.000000</row2><row3>-0.031892 -0.010023 -0.014215 1.000000</row3></transform></node></node><node><identifier>Rotate_X2</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 -0.014215 1.000000</row3></transform><node><identifier>Rotate_X2_BlendBone</identifier><transform><row0>0.000000 0.000000 -1.000000 0.000000</row0><row1>1.000000 0.000000 0.000000 0.000000</row1><row2>0.000000 1.000000 0.000000 0.000000</row2><row3>-0.033430 0.000000 0.014215 1.000000</row3></transform></node></node><node><identifier>Rotate_Y_BlendBone</identifier><transform><row0>0.000000 0.000000 -1.000000 0.000000</row0><row1>1.000000 0.000000 0.000000 0.000000</row1><row2>0.000000 1.000000 0.000000 0.000000</row2><row3>-0.033430 0.000000 0.000000 1.000000</row3></transform></node></node><node><identifier>Root_BlendBone</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><node><identifier>BM023_Anemometer</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><renderSet><treatAsWorldSpaceObject>true</treatAsWorldSpaceObject><node>Root_BlendBone</node><node>Rotate_Y_BlendBone</node><node>Rotate_Z_BlendBone</node><node>Rotate_X1_BlendBone</node><node>Rotate_X2_BlendBone</node><geometry><vertices>BM023_Anemometer_lod1Shape.vertices</vertices><primitive>BM023_Anemometer_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Misc</identifier><mfm>PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/cf3e0fbf2317f2fa6ebfcbc3a4caa1a9.mfm</mfm></material></primitiveGroup></geometry></renderSet></BRF036_Anemometer_lod1.visual>
+<BRF036_Anemometer_lod1.visual>
+	<boundingBox>
+		<min>	-0.016626 -0.024538 -0.012140	</min>
+		<max>	0.016626 0.063279 0.010431	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Root	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	Rotate_Y	</identifier>
+				<transform>
+					<row0>	0.000000 1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.000000 -1.000000 0.000000	</row1>
+					<row2>	-1.000000 0.000000 0.000000 0.000000	</row2>
+					<row3>	0.000000 0.033430 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	Rotate_Y2	</identifier>
+					<transform>
+						<row0>	-0.008604 -0.999963 0.000000 0.000000	</row0>
+						<row1>	0.999963 -0.008604 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.018820 0.000000 0.000000 1.000000	</row3>
+					</transform>
+					<node>
+						<identifier>	Rotate_Z	</identifier>
+						<transform>
+							<row0>	0.000000 0.000000 -1.000000 0.000000	</row0>
+							<row1>	-0.008604 0.999963 0.000000 0.000000	</row1>
+							<row2>	0.999963 0.008604 0.000000 0.000000	</row2>
+							<row3>	0.005848 0.000050 0.000000 1.000000	</row3>
+						</transform>
+						<node>
+							<identifier>	Rotate_Z_BlendBone	</identifier>
+							<transform>
+								<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+								<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+								<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+								<row3>	0.000000 -0.052250 -0.005848 1.000000	</row3>
+							</transform>
+						</node>
+					</node>
+					<node>
+						<identifier>	Rotate_Y2_BlendBone	</identifier>
+						<transform>
+							<row0>	0.000000 0.000000 -1.000000 0.000000	</row0>
+							<row1>	-0.008604 0.999963 0.000000 0.000000	</row1>
+							<row2>	-0.999963 -0.008604 0.000000 0.000000	</row2>
+							<row3>	0.000450 -0.052248 0.000000 1.000000	</row3>
+						</transform>
+					</node>
+				</node>
+				<node>
+					<identifier>	Rotate_X1	</identifier>
+					<transform>
+						<row0>	0.953994 -0.299827 0.000000 0.000000	</row0>
+						<row1>	0.299827 0.953994 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.014215 1.000000	</row3>
+					</transform>
+					<node>
+						<identifier>	Rotate_X1_BlendBone	</identifier>
+						<transform>
+							<row0>	0.000000 0.000000 -1.000000 0.000000	</row0>
+							<row1>	0.953994 0.299827 0.000000 0.000000	</row1>
+							<row2>	-0.299827 0.953994 0.000000 0.000000	</row2>
+							<row3>	-0.031892 -0.010023 -0.014215 1.000000	</row3>
+						</transform>
+					</node>
+				</node>
+				<node>
+					<identifier>	Rotate_X2	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 -0.014215 1.000000	</row3>
+					</transform>
+					<node>
+						<identifier>	Rotate_X2_BlendBone	</identifier>
+						<transform>
+							<row0>	0.000000 0.000000 -1.000000 0.000000	</row0>
+							<row1>	1.000000 0.000000 0.000000 0.000000	</row1>
+							<row2>	0.000000 1.000000 0.000000 0.000000	</row2>
+							<row3>	-0.033430 0.000000 0.014215 1.000000	</row3>
+						</transform>
+					</node>
+				</node>
+				<node>
+					<identifier>	Rotate_Y_BlendBone	</identifier>
+					<transform>
+						<row0>	0.000000 0.000000 -1.000000 0.000000	</row0>
+						<row1>	1.000000 0.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 1.000000 0.000000 0.000000	</row2>
+						<row3>	-0.033430 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	Root_BlendBone	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+		<node>
+			<identifier>	BM023_Anemometer	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	true	</treatAsWorldSpaceObject>
+		<node>	Root_BlendBone	</node>
+		<node>	Rotate_Y_BlendBone	</node>
+		<node>	Rotate_Z_BlendBone	</node>
+		<node>	Rotate_X1_BlendBone	</node>
+		<node>	Rotate_X2_BlendBone	</node>
+		<geometry>
+			<vertices>	BM023_Anemometer_lod1Shape.vertices	</vertices>
+			<primitive>	BM023_Anemometer_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Misc	</identifier>
+					<mfm>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRF036_Anemometer_skinned.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</BRF036_Anemometer_lod1.visual>

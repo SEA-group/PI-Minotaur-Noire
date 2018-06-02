@@ -1,1 +1,9 @@
-<BD031_MRS3_Director.model><castsShadow>false</castsShadow><exporter>1.6</exporter><parent>PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/director/BD031_MRS3_Director_lod1</parent><nodefullVisual>PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/director/BD031_MRS3_Director</nodefullVisual><extent>3.0000</extent><materialNames /><metaData>Wargaming | Lesta Studio</metaData></BD031_MRS3_Director.model>
+<BD031_MRS3_Director.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/director/BD031_MRS3_Director_lod1	</parent>
+	<nodefullVisual>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/director/BD031_MRS3_Director	</nodefullVisual>
+	<extent>	3.0000	</extent>
+	<materialNames />
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BD031_MRS3_Director.model>
