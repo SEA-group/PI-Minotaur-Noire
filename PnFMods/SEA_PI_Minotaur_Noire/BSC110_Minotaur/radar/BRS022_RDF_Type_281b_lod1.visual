@@ -89,7 +89,7 @@
 			<primitive>	Turret_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMAT_PBS_DirectorX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRS038_Radar_Type_79_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

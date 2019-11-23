@@ -65,7 +65,7 @@
 			<primitive>	Direct_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMAT_PBS_DirectorX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/director/BD029_CRBFD_MRS8_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
