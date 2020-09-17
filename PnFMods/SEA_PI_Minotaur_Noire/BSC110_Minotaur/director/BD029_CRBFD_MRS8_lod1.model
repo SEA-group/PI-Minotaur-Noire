@@ -1,9 +1,0 @@
-<BD029_CRBFD_MRS8_lod1.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/director/BD029_CRBFD_MRS8_lod2	</parent>
-	<extent>	8.0000	</extent>
-	<materialNames />
-	<castsShadow>	false	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/director/BD029_CRBFD_MRS8_lod1	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</BD029_CRBFD_MRS8_lod1.model>

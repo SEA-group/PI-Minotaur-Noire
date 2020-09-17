@@ -6,7 +6,7 @@
 		<filler>	true	</filler>
 	</action>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRS022_RDF_Type_281b_lod1	</parent>
+	<parent>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/lods/BRS022_RDF_Type_281b_lod1	</parent>
 	<nodefullVisual>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRS022_RDF_Type_281b	</nodefullVisual>
 	<extent>	2.0000	</extent>
 	<materialNames />

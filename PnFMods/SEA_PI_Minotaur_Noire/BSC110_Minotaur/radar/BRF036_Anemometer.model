@@ -6,7 +6,7 @@
 		<filler>	true	</filler>
 	</action>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRF036_Anemometer_lod1	</parent>
+	<parent>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/lods/BRF036_Anemometer_lod1	</parent>
 	<extent>	2.0000	</extent>
 	<nodefullVisual>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRF036_Anemometer	</nodefullVisual>
 	<materialNames />

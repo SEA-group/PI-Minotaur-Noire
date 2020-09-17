@@ -1,0 +1,17 @@
+<BRS022_RDF_Type_281b_lod3.model>
+	<castsShadow>	false	</castsShadow>
+	<action>
+		<name>	idle	</name>
+		<animation>	Rotation5rpm	</animation>
+		<filler>	true	</filler>
+	</action>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/lods/BRS022_RDF_Type_281b_lod3	</nodefullVisual>
+	<extent>	25.0000	</extent>
+	<animation>
+		<name>	Rotation5rpm	</name>
+		<frameRate>	30.0000	</frameRate>
+		<nodes>	content/animation/common/Rotation5rpm	</nodes>
+	</animation>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BRS022_RDF_Type_281b_lod3.model>

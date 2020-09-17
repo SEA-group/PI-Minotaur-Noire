@@ -1,6 +1,6 @@
 <BGA031_3in70_Mk6_dead.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGA031_3in70_Mk6_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/lods/BGA031_3in70_Mk6_dead_lod1	</parent>
 	<extent>	2.0000	</extent>
 	<materialNames />
 	<castsShadow>	false	</castsShadow>

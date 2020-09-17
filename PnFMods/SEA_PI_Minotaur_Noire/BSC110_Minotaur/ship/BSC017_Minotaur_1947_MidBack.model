@@ -1,6 +1,6 @@
 <BSC017_Minotaur_1947_MidBack.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/ship/BSC017_Minotaur_1947_MidBack_lod1	</parent>
+	<parent>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/ship/lods/BSC017_Minotaur_1947_MidBack_lod1	</parent>
 	<extent>	7.0000	</extent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>

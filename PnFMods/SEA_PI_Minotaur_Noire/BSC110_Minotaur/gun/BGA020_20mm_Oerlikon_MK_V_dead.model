@@ -1,7 +1,7 @@
 <BGA020_20mm_Oerlikon_MK_V_dead.model>
 	<castsShadow>	false	</castsShadow>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGA020_20mm_Oerlikon_MK_V_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/lods/BGA020_20mm_Oerlikon_MK_V_dead_lod1	</parent>
 	<nodefullVisual>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGA020_20mm_Oerlikon_MK_V_dead	</nodefullVisual>
 	<extent>	2.0000	</extent>
 	<materialNames />
