@@ -71,7 +71,7 @@
 			<primitive>	TurretShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DirectorX	</identifier>
+					<identifier>	SHIPMATX_PBS_DirectorX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRS026_Radar_Type_293p_Outfit_AQK_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -85,7 +85,7 @@
 			<primitive>	gridShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Net	</identifier>
+					<identifier>	SHIPMATX_PBS_Net	</identifier>
 					<mfm>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/C001_Net_alpha_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

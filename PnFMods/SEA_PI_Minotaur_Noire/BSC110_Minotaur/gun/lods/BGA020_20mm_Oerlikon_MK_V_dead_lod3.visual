@@ -25,7 +25,7 @@
 			<primitive>	gun_Root_dead_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGA020_20mm_Oerlikon_MK_V_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>

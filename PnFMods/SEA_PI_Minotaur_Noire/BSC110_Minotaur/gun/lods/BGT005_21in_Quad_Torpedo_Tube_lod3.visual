@@ -97,7 +97,7 @@
 			<primitive>	BGT005_21in_Quad_Torpedo_Tube_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGT005_21in_Quad_Torpedo_Tube_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

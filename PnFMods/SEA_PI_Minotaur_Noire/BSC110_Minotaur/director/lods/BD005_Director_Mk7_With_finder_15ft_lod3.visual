@@ -29,7 +29,7 @@
 			<primitive>	Radar_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Misc	</identifier>
+					<identifier>	SHIPMATX_PBS_Misc	</identifier>
 					<mfm>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/director/BD005_Director_Mk7_With_finder_15ft.mfm	</mfm>
 				</material>
 			</primitiveGroup>

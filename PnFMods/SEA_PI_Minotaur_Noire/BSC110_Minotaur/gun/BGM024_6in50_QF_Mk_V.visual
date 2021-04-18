@@ -130,7 +130,7 @@
 			<primitive>	TurretShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGM024_6in50_QF_Mk_V_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

@@ -29,7 +29,7 @@
 			<primitive>	Turret_dead_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGM024_6in50_QF_Mk_V_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>
