@@ -1,20 +1,20 @@
 <BGA031_3in70_Mk6.mfm>
 	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
 	<property>	emissivePower
-		<Float>	2.00000	</Float>
+		<Float>	1.90000	</Float>
 	</property>
 	<collisionFlags>	0	</collisionFlags>
 	<materialKind>	0	</materialKind>
 	<property>	diffuseMap
-		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGA031_3in70_Mk6_a.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGA031_3in70_Mk6_a.dds	</Texture>
 	</property>
 	<property>	metallicGlossMap
-		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGA031_3in70_Mk6_mg.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGA031_3in70_Mk6_mg.dds	</Texture>
 	</property>
 	<property>	normalMap
-		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGA031_3in70_Mk6_n.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/BGA031_3in70_Mk6_n.dds	</Texture>
 	</property>
 	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/default_ao.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/default_ao.dds	</Texture>
 	</property>
 </BGA031_3in70_Mk6.mfm>

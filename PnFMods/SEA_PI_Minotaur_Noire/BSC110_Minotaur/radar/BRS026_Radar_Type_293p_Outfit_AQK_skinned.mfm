@@ -3,15 +3,15 @@
 	<collisionFlags>	0	</collisionFlags>
 	<materialKind>	0	</materialKind>
 	<property>	diffuseMap
-		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRS026_Radar_Type_293p_Outfit_AQK_a.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRS026_Radar_Type_293p_Outfit_AQK_a.dds	</Texture>
 	</property>
 	<property>	normalMap
-		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRS026_Radar_Type_293p_Outfit_AQK_n.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRS026_Radar_Type_293p_Outfit_AQK_n.dds	</Texture>
 	</property>
 	<property>	metallicGlossMap
-		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRS026_Radar_Type_293p_Outfit_AQK_mg.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/BRS026_Radar_Type_293p_Outfit_AQK_mg.dds	</Texture>
 	</property>
 	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/default_ao.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/default_ao.dds	</Texture>
 	</property>
 </BRS026_Radar_Type_293p_Outfit_AQK_skinned.mfm>

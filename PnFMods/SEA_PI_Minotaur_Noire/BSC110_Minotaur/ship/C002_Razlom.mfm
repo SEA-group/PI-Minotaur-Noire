@@ -3,15 +3,15 @@
 	<collisionFlags>	0	</collisionFlags>
 	<materialKind>	0	</materialKind>
 	<property>	normalMap
-		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/ship/C002_Razlom_n.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/ship/C002_Razlom_n.dds	</Texture>
 	</property>
 	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/ship/default_ao.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/ship/default_ao.dds	</Texture>
 	</property>
 	<property>	metallicGlossMap
-		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/ship/C002_Razlom_mg.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/ship/C002_Razlom_mg.dds	</Texture>
 	</property>
 	<property>	diffuseMap
-		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/ship/C002_Razlom_a.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/ship/C002_Razlom_a.dds	</Texture>
 	</property>
 </C002_Razlom.mfm>

@@ -3,18 +3,24 @@
 	<property>	emissivePower
 		<Float>	2.00000	</Float>
 	</property>
+	<property>	alphaTestEnable
+		<Bool>	true	</Bool>
+	</property>
+	<property>	alphaReference
+		<Int>	128	</Int>
+	</property>
 	<collisionFlags>	0	</collisionFlags>
 	<materialKind>	0	</materialKind>
 	<property>	metallicGlossMap
-		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/ship/BSC017_Minotaur_1947_Deckhouse_mg.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/ship/BSC017_Minotaur_1947_Deckhouse_mg.dds	</Texture>
 	</property>
 	<property>	normalMap
-		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/ship/BSC017_Minotaur_1947_Deckhouse_n.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/ship/BSC017_Minotaur_1947_Deckhouse_n.dds	</Texture>
 	</property>
 	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/ship/BSC017_Minotaur_1947_Deckhouse_ao.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/ship/BSC017_Minotaur_1947_Deckhouse_ao.dds	</Texture>
 	</property>
 	<property>	diffuseMap
-		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/ship/BSC017_Minotaur_1947_Deckhouse_a.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/ship/BSC017_Minotaur_1947_Deckhouse_a.dds	</Texture>
 	</property>
 </BSC017_Minotaur_1947_Deckhouse.mfm>

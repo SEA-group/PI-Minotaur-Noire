@@ -209,57 +209,30 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_BTC0496	</identifier>
+				<identifier>	MP_BM501_Cutter_32ft	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	-0.008222 0.639437 -2.023672	</row3>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.5928 -0.5511 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_BTC0499	</identifier>
+				<identifier>	MP_BM503_Motor_Boat_35ft	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	-0.022351 0.730160 -1.862068	</row3>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.2562 0.5926 -0.4707 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_BTC0494	</identifier>
+				<identifier>	MP_BM503_Motor_Boat_35ft_INDEX_1	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000001 1.844544 -1.902413	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_BM862_Signal_Lamp	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.989016 -0.147809 0.000000	</row1>
-					<row2>	0.000000 0.147809 0.989016 0.000000	</row2>
-					<row3>	0.000000 2.231739 -1.981754 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_BTC0495	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000000 0.592562 -0.470736	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_BTC0491	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000000 1.852068 -1.903101	</row3>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.2562 0.5926 -0.4707 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -272,12 +245,48 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_BM501_Cutter_32ft	</identifier>
+				<identifier>	MP_BM858_Signal_Lamp	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 -1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+					<row3>	-0.3731 1.8445 -1.9024 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BM858_Signal_Lamp_INDEX_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 -1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+					<row3>	0.3731 1.8445 -1.9024 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BM862_Signal_Lamp	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.592780 -0.551107 1.000000	</row3>
+					<row1>	0.000000 0.989016 -0.147809 0.000000	</row1>
+					<row2>	0.000000 0.147809 0.989016 0.000000	</row2>
+					<row3>	0.000000 2.231739 -1.981754 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM104_Life_Buoy	</identifier>
+				<transform>
+					<row0>	0.1000 0.0000 -0.9950 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.9950 0.0000 0.1000 0.0000	</row2>
+					<row3>	-0.6777 0.4622 -3.0752 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM104_Life_Buoy_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.1000 0.0000 0.9950 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.9950 0.0000 0.1000 0.0000	</row2>
+					<row3>	0.6777 0.4622 -3.0752 1.0000	</row3>
 				</transform>
 			</node>
 			<node>

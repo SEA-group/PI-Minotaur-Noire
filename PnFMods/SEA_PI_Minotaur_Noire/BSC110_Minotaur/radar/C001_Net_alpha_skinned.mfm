@@ -12,15 +12,15 @@
 		<Int>	145	</Int>
 	</property>
 	<property>	diffuseMap
-		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/C001_Net_alpha_a.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/C001_Net_alpha_a.dds	</Texture>
 	</property>
 	<property>	normalMap
-		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/default_n.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/default_n.dds	</Texture>
 	</property>
 	<property>	metallicGlossMap
-		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/C001_Net_mg.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/C001_Net_mg.dds	</Texture>
 	</property>
 	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/default_ao.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/radar/default_ao.dds	</Texture>
 	</property>
 </C001_Net_alpha_skinned.mfm>

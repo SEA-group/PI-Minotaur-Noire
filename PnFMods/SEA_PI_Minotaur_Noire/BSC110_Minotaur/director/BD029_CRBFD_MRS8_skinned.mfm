@@ -1,20 +1,20 @@
 <BD029_CRBFD_MRS8_skinned.mfm>
-	<fx>	shaders/std_effects/PBS_skinned_emissive.fx	</fx>
+	<fx>	shaders/std_effects/PBS_ship_emissive_skinned.fx	</fx>
 	<property>	emissivePower
 		<Float>	2.00000	</Float>
 	</property>
 	<collisionFlags>	0	</collisionFlags>
 	<materialKind>	0	</materialKind>
 	<property>	metallicGlossMap
-		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/director/BD029_CRBFD_MRS8_mg.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/director/BD029_CRBFD_MRS8_mg.dds	</Texture>
 	</property>
 	<property>	normalMap
-		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/director/BD029_CRBFD_MRS8_n.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/director/BD029_CRBFD_MRS8_n.dds	</Texture>
 	</property>
 	<property>	diffuseMap
-		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/director/BD029_CRBFD_MRS8_a.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/director/BD029_CRBFD_MRS8_a.dds	</Texture>
 	</property>
 	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/director/default_ao.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/director/default_ao.dds	</Texture>
 	</property>
 </BD029_CRBFD_MRS8_skinned.mfm>
