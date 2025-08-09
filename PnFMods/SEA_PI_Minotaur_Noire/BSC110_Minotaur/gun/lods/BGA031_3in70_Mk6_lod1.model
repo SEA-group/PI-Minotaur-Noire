@@ -1,9 +1,0 @@
-<BGA031_3in70_Mk6_lod1.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/lods/BGA031_3in70_Mk6_lod2	</parent>
-	<extent>	7.0000	</extent>
-	<materialNames />
-	<castsShadow>	false	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/lods/BGA031_3in70_Mk6_lod1	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</BGA031_3in70_Mk6_lod1.model>

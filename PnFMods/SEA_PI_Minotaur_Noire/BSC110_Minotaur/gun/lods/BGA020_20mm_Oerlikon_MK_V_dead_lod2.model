@@ -1,8 +1,0 @@
-<BGA020_20mm_Oerlikon_MK_V_dead_lod2.model>
-	<castsShadow>	false	</castsShadow>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/lods/BGA020_20mm_Oerlikon_MK_V_dead_lod3	</parent>
-	<nodefullVisual>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/gun/lods/BGA020_20mm_Oerlikon_MK_V_dead_lod2	</nodefullVisual>
-	<extent>	15.0000	</extent>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</BGA020_20mm_Oerlikon_MK_V_dead_lod2.model>

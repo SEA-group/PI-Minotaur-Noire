@@ -1,9 +1,6 @@
 <BSC017_Minotaur_1947_Stern.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/ship/lods/BSC017_Minotaur_1947_Stern_lod1	</parent>
-	<extent>	7.0000	</extent>
-	<materialNames />
-	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/ship/BSC017_Minotaur_1947_Stern	</nodefullVisual>
+	<visual>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/ship/BSC017_Minotaur_1947_Stern.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </BSC017_Minotaur_1947_Stern.model>

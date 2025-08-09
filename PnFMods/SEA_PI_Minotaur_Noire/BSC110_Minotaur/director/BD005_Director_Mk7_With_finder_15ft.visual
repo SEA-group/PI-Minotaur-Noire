@@ -1,38 +1,106 @@
 <BD005_Director_Mk7_With_finder_15ft.visual>
+	<skeleton>
+		<node>
+			<identifier>	Scene Root	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	Radar	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
 	<boundingBox>
 		<min>	-0.173968 -0.000667 -0.113893	</min>
 		<max>	0.173968 0.289193 0.151706	</max>
 	</boundingBox>
-	<node>
-		<identifier>	Scene Root	</identifier>
-		<transform>
-			<row0>	1.000000 0.000000 0.000000	</row0>
-			<row1>	0.000000 1.000000 0.000000	</row1>
-			<row2>	0.000000 0.000000 1.000000	</row2>
-			<row3>	0.000000 0.000000 0.000000	</row3>
-		</transform>
-		<node>
-			<identifier>	Radar	</identifier>
-			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-			</transform>
-		</node>
-	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Radar	</node>
-		<geometry>
-			<vertices>	RadarShape.vertices	</vertices>
-			<primitive>	RadarShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_Misc	</identifier>
-					<mfm>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/director/BD005_Director_Mk7_With_finder_15ft.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
+	<renderSets>
+		<renderSet>
+			<name>	RadarShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Radar	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Misc	</identifier>
+				<mfm>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/director/BD005_Director_Mk7_With_finder_15ft.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Radar_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Radar	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Misc	</identifier>
+				<mfm>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/director/BD005_Director_Mk7_With_finder_15ft.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Radar_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Radar	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Misc	</identifier>
+				<mfm>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/director/BD005_Director_Mk7_With_finder_15ft.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Radar_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Radar	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Misc	</identifier>
+				<mfm>	PnFMods/SEA_PI_Minotaur_Noire/BSC110_Minotaur/director/BD005_Director_Mk7_With_finder_15ft.mfm	</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
+	<lods>
+		<lod>
+			<extent>	2.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	RadarShape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	8.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Radar_lod1Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	25.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Radar_lod2Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	120.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Radar_lod3Shape	</renderSet>
+			</renderSets>
+		</lod>
+	</lods>
 </BD005_Director_Mk7_With_finder_15ft.visual>
